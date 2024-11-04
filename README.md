@@ -1,7 +1,7 @@
 # Directive Study Implementation
-## Testing Application Accuracy
+## Testing Application Accuracy (10/28/2024 - 11/03/24)
 
-# Gaze Tracking -Antoinelame
+# Gaze Tracking - Antoinelame
 
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
