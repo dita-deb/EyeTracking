@@ -12,8 +12,9 @@ What approach do other models take?
   - They use the boarder/box method to first find the face
   - relative to the edges of the box an estimation is made on where they are looking
     - maybe add a gif here to show the situations
+      https://github.com/rubeneezy/Iris/blob/main/website_imgs/distracted_driver.jpeg
   - add acutual degrees to the estimation process
 
 Relatively similar repositories for inspiration
-
+- https://github.com/rubeneezy/Iris
   
