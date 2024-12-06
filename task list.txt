@@ -14,3 +14,6 @@ What approach do other models take?
     - maybe add a gif here to show the situations
   - add acutual degrees to the estimation process
 
+Relatively similar repositories for inspiration
+
+  
