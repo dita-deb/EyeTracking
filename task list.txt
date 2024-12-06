@@ -1,0 +1,16 @@
+Eye Tracking
+
+Whats's on market place right now with eye tracking
+  - currently its used as a "focus tracker"
+  - its used as a digital mouse on monitor/pc
+What applications do we want to use with this?
+  - using eye movement/focus to see where a user is looking
+  - utilizing it along side the external cars/vehichle model
+
+
+What approach do other models take?
+  - They use the boarder/box method to first find the face
+  - relative to the edges of the box an estimation is made on where they are looking
+    - maybe add a gif here to show the situations
+  - add acutual degrees to the estimation process
+
