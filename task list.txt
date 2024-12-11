@@ -1,20 +1,37 @@
 Eye Tracking
 
-Whats's on market place right now with eye tracking
-  - currently its used as a "focus tracker"
-  - its used as a digital mouse on monitor/pc
+What's on the marketplace right now with eye-tracking
+  - currently, its used as a "focus tracker"
+  - is used as a digital mouse on a monitor/pc
 What applications do we want to use with this?
   - using eye movement/focus to see where a user is looking
-  - utilizing it along side the external cars/vehichle model
+  - utilizing it alongside the external cars/vehicle model
 
 
 What approach do other models take?
-  - They use the boarder/box method to first find the face
-  - relative to the edges of the box an estimation is made on where they are looking
-    - maybe add a gif here to show the situations
+  - They use the border/box method first to find the face
+  - relative to the edges of the box an estimation is made of where they are looking
+    - maybe add a GIF here to show the situations
       https://github.com/rubeneezy/Iris/blob/main/website_imgs/distracted_driver.jpeg
-  - add acutual degrees to the estimation process
+  - add actual degrees to the estimation process
 
 Relatively similar repositories for inspiration
 - https://github.com/rubeneezy/Iris
   
+** Virtual Witness ** 
+How will we frame this?
+  - a need, product, and as a process (creating it) 
+  - need: diagrams (readable but must have value), figures (convey an idea), case studies, and usage 
+      - reference to the research papers and how others have done this and how we are different
+  - product: 
+  - processes: 
+
+5-6 pages encapsulate all aspects of the virtual witness through need, product, and process.
+
+Dita: Introduction/Abstract/problem, inside capsule, and eye tracking
+Ryan: Integration(description), testing(experimentation/mathematics) and evaluation(validation) 
+Together: Conclusion 
+
+Reference on writing a paper** draft up a few papers 
+2 column format
+
